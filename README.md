@@ -10,7 +10,7 @@ The mathematica scripts (*.m) have been tested with mathematica 14.0.
                                                                                                 
 Copyright (c) 2024-2025 Mikko Laine and Simona Procacci.                                 
 
-The programs are distributed under the terms of GNU General Public License <https://www.gnu.org/licenses/>.                                    
+The programs are distributed under the terms of [GNU General Public License](https://www.gnu.org/licenses/).                                    
 
 No warranty is expressed or implied.                                                           
                                                                                                 
